@@ -1,3 +1,3 @@
 Programi nga Marsildo
 
-Skema dhe asemblimi nga marvin enisi dhe bjorni
+Skema dhe asemblimi nga Marvin Enisi dhe Bjorni
